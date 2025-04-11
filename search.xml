@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/post/0.html"/>
+      <url>/post/0.html</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">title：Git</span><br><span class="line">tags:</span><br><span class="line">  - hexo</span><br><span class="line">top: 13</span><br><span class="line">category: 学习</span><br><span class="line">abbrlink: 123454545</span><br></pre></td></tr></table></figure><h2 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1. 打开文件夹</span><br><span class="line">D:\1. Pytorch\2. Github_web\2.My_web</span><br><span class="line">右击 打开第二个输入：</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br><span class="line">hexo g &amp;&amp; hexo s</span><br><span class="line">打开翻墙软件clash</span><br><span class="line">打开GitHubDesktop.exe</span><br><span class="line">填写摘要（随便填写） - Commit到main - 推送 origion</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>笔记本电脑配置环境</title>
       <link href="/post/hexo_build2a3.html"/>
       <url>/post/hexo_build2a3.html</url>
@@ -42,32 +55,7 @@
     
     
     <entry>
-      <title>12357575</title>
-      <link href="/post/123454545.html"/>
-      <url>/post/123454545.html</url>
-      
-        <content type="html"><![CDATA[<hr><h1 id="Git454655757"><a href="#Git454655757" class="headerlink" title="Git454655757"></a>Git454655757</h1><hr><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">1. 打开文件夹</span><br><span class="line">D:\1. Pytorch\2. Github_web\2.My_web</span><br><span class="line">右击 打开第二个输入：</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br><span class="line">hexo g &amp;&amp; hexo s</span><br><span class="line">打开翻墙软件clash</span><br><span class="line">打开GitHubDesktop.exe</span><br><span class="line">填写摘要（随便填写） - Commit到main - 推送 origion</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> 学习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>123</title>
+      <title>Github上传</title>
       <link href="/post/123.html"/>
       <url>/post/123.html</url>
       
